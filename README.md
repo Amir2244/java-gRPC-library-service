@@ -34,5 +34,5 @@ mvn clean install
 ```
 3. Start the server:
 ```bash
-java -jar target/library-grpc-1.0-SNAPSHOTe.jar
+java -jar target/library-grpc-1.0-SNAPSHOT.jar
 ```
